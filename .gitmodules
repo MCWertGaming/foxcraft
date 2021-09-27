@@ -1,0 +1,6 @@
+[submodule "dependencies/RapidJSON"]
+	path = dependencies/RapidJSON
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "dependencies/CURL"]
+	path = dependencies/CURL
+	url = https://github.com/curl/curl.git
