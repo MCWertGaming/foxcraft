@@ -14,7 +14,7 @@ option(FOXCRAFT_ENABLE_TESTING "Enables building of unit testing targets" ON)
 option(FOXCRAFT_ENABLE_INSTALL "Enables install generation of foxcraft" ON)
 # if(PROJECT_IS_TOP_LEVEL) // needs cmake 3.21
 
-# add_subdirectory(foxcraft)
+add_subdirectory(foxcraft)
 
 # include custom cmake functions
 include(cmake/dependency.cmake)
